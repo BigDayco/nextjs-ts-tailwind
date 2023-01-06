@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="pt-BR">
       <Head>
         <meta name="description" content="BigDayCO template default" />
-        <link rel="icon" href="/favicon.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
         <Main />
