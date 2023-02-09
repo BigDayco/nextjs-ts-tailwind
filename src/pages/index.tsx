@@ -15,7 +15,7 @@ export default function Home() {
           <h1 className="text-7xl font-serif font-bold text-zinc-100 hover:text-white hover:drop-shadow-custom transition-all cursor-default">
             BigDay
             <small className="text-zinc-100 text-xs block font-sans font-normal mt-1">
-              Intelligence and Analytics Solutions
+              Intelligence and Analytics Solutions.
             </small>
           </h1>
 
