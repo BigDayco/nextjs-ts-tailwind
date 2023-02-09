@@ -10,8 +10,9 @@
       {
         "newlinesBetween": "always",
         "groups": [
+          ["/^react/", "/^next/"],
           "module",
-          "/^@shared/",
+          "/^~/",
           [
             "parent",
             "sibling",
