@@ -10,7 +10,7 @@ export default function Home() {
       <main className="w-screen h-screen bg-zinc-900 flex flex-col items-center justify-center">
         <div className="flex flex-col items-center w-full">
           <div className="rounded-full overflow-hidden relative w-36 h-36 mb-8">
-            <Image src="/logo-bd.png" alt="bigday" fill />
+            <Image src="/logo-bd.png" alt="bigday" sizes="100%" fill />
           </div>
           <h1 className="text-7xl font-serif font-bold text-zinc-100 hover:text-white hover:drop-shadow-custom transition-all cursor-default">
             BigDay
