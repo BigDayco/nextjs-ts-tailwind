@@ -1,4 +1,4 @@
-<p align="center"><a href="https://bigdayco.com.br" target="_blank"><img style="width: 120px; height:120px; border-radius:99999px;" src="public/logo-bd.png" alt="logo bigday"></a></p>
+<p align="center"><a href="https://bigdayco.com.br" target="_blank"><img style="width: 120px; height:120px; border-radius:99999px; overflow:hidden;" src="public/logo-bd.png" alt="logo bigday"></a></p>
 
 
 
@@ -7,15 +7,17 @@
 </p>
 
 
-# Template Default - Nextjs + Tailwind -- v0.1.0
+# Template Default - Nextjs + Tailwind -- v1.0
 **Dependências:**
-- Nextjs: v13.1.1
-- Typescript: v4.9.4
-- Postcss: v8.4.20,
-- Tailwindcss: v3.2.4
-- Eslint: v8.31.0
+- Nextjs: v13.1.6
+- Typescript: v4.9.5
+- Postcss: v8.4.21,
+- Tailwindcss: v3.2.6
+- Eslint: v8.33.0
 
-
+**Improvements**
+- Husky pre-commit
+- Eslint rules
 
 ## Organização do versionamento - Git flow
 ***Branch Main***
